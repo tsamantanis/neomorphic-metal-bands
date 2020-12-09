@@ -1,3 +1,4 @@
+import Like from './Like';
 function Band(props) {
     return (
         <div className="col-12 col-md-4">
@@ -11,6 +12,7 @@ function Band(props) {
                             <p>Fans: { props.fans }</p>
                         </div>
                     </div>
+                    <Like />
                 </div>
             </div>
         </div>
