@@ -1,8 +1,13 @@
+import { Fragment } from 'react'
 import Heading from './components/Heading';
+import MetalMeta from './components/MetalMeta';
 
 function App() {
     return (
-        <Heading />
+        <Fragment>
+            <Heading />
+            <MetalMeta />
+        </Fragment>
     );
 }
 
