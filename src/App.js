@@ -1,4 +1,3 @@
-import { Fragment } from 'react'
 import Heading from './components/Heading';
 import MetalMeta from './components/MetalMeta';
 import Band from './components/Band';
@@ -7,10 +6,10 @@ import data from './metal.json';
 
 function App() {
     return (
-        <Fragment>
+        <div className="container">
             <Heading />
             <MetalMeta />
-            <div className="row">
+            <div className="row mt-5">
                 { data.map((band) => {
                     return (
                         <Band
@@ -25,7 +24,7 @@ function App() {
                     );
                 })}
             </div>
-        </Fragment>
+        </div>
     );
 }
 

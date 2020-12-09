@@ -2,7 +2,7 @@ import Like from './Like';
 function Band(props) {
     return (
         <div className="col-12 col-md-4">
-            <div className="card">
+            <div className="card neomorphic--disabled">
                 <div className="container">
                     <div className="row">
                         <div className="col-12">
