@@ -10,9 +10,10 @@ function Band(props) {
                             <p>Formed: { props.formed }</p>
                             <p>{ props.origin }</p>
                             <p>Fans: { props.fans }</p>
+                            { props.split !== "-" && <p className="mb-4 pb-1">{"Split: " + props.split}</p> }
                         </div>
                     </div>
-                    <Like />
+                    { props.split === "-" && <Like /> }
                 </div>
             </div>
         </div>

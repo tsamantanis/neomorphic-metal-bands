@@ -18,7 +18,7 @@ function App() {
                             formed={ band.formed }
                             origin={ band.origin }
                             fans={ band.fans }
-                            // split={ band.split }
+                            split={ band.split }
                             // style={ band.style }
                         />
                     );
