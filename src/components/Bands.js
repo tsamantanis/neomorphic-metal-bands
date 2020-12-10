@@ -36,7 +36,7 @@ function Bands() {
                             origin={ band.origin }
                             fans={ band.fans.toLocaleString('en') }
                             split={ band.split }
-                            // style={ band.style }
+                            style={ band.style }
                         />
                     );
                 })}

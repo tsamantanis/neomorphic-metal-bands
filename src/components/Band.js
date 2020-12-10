@@ -11,6 +11,13 @@ function Band(props) {
                             <p>{ props.origin }</p>
                             <p>Fans: { props.fans }</p>
                             { props.split !== "-" && <p className="mb-4 pb-1">{"Split: " + props.split}</p> }
+                            <ul className="ml-n1">
+                                { props.style.split(",").map((style) => {
+                                    return (
+                                        <li>{ style }</li>
+                                    );
+                                })}
+                            </ul>
                         </div>
                     </div>
                     { props.split === "-" && <Like /> }
