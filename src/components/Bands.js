@@ -34,7 +34,7 @@ function Bands() {
                             name={ band.band_name }
                             formed={ band.formed }
                             origin={ band.origin }
-                            fans={ band.fans }
+                            fans={ band.fans.toLocaleString('en') }
                             split={ band.split }
                             // style={ band.style }
                         />
