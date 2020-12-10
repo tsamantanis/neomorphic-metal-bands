@@ -2,7 +2,7 @@
     --gray: #EAEBEF;
 }
 
-body, button, .card {
+body, button, input, .card {
     background: var(--gray);
     outline: none;
     border: none;

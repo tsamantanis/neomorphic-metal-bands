@@ -18,6 +18,7 @@ function Bands() {
             <div className="row mt-5 justify-content-center align-items-center">
                 <div className="col-12 col-md-4">
                     <input
+                        className="neomorphic w-100 pt-2 pb-2 pl-3"
                         name="search"
                         value={search}
                         onChange={(e) => setSearch(e.target.value)}
