@@ -1,8 +1,11 @@
 :root {
-    --gray: #EAEBEF;
+    --gray: #eaebef;
 }
 
-body, button, input, .card {
+body,
+button,
+input,
+.card {
     background: var(--gray);
     outline: none;
     border: none;
@@ -30,7 +33,10 @@ button {
     transition: 0.3s ease;
 }
 
-.neomorphic:hover, .neomorphic:focus, .neomorphic:active, .neomorphic:target {
+.neomorphic:hover,
+.neomorphic:focus,
+.neomorphic:active,
+.neomorphic:target {
     box-shadow: inset 1.5px 1.5px 3px 0 rgba(0, 0, 0, 0.2),
         inset -1.5px -1.5px 3px 0 rgba(255, 255, 255, 0.5) !important;
 }

@@ -1,6 +1,6 @@
-import Heading from './components/Heading';
-import MetalMeta from './components/MetalMeta';
-import Bands from './components/Bands';
+import Heading from "./components/Heading";
+import MetalMeta from "./components/MetalMeta";
+import Bands from "./components/Bands";
 
 function App() {
     return (
