@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tsamantanis-few-1-2-final/static/css/main.518652f2.chunk.css",
-    "main.js": "/tsamantanis-few-1-2-final/static/js/main.98163f8a.chunk.js",
-    "main.js.map": "/tsamantanis-few-1-2-final/static/js/main.98163f8a.chunk.js.map",
-    "runtime-main.js": "/tsamantanis-few-1-2-final/static/js/runtime-main.099dd065.js",
-    "runtime-main.js.map": "/tsamantanis-few-1-2-final/static/js/runtime-main.099dd065.js.map",
-    "static/js/2.52c24d64.chunk.js": "/tsamantanis-few-1-2-final/static/js/2.52c24d64.chunk.js",
-    "static/js/2.52c24d64.chunk.js.map": "/tsamantanis-few-1-2-final/static/js/2.52c24d64.chunk.js.map",
-    "static/js/3.9f88b37a.chunk.js": "/tsamantanis-few-1-2-final/static/js/3.9f88b37a.chunk.js",
-    "static/js/3.9f88b37a.chunk.js.map": "/tsamantanis-few-1-2-final/static/js/3.9f88b37a.chunk.js.map",
-    "index.html": "/tsamantanis-few-1-2-final/index.html",
-    "static/css/main.518652f2.chunk.css.map": "/tsamantanis-few-1-2-final/static/css/main.518652f2.chunk.css.map",
-    "static/js/2.52c24d64.chunk.js.LICENSE.txt": "/tsamantanis-few-1-2-final/static/js/2.52c24d64.chunk.js.LICENSE.txt"
+    "main.css": "/neomorphic-metal-bands/static/css/main.616df1d2.chunk.css",
+    "main.js": "/neomorphic-metal-bands/static/js/main.95cbddd4.chunk.js",
+    "main.js.map": "/neomorphic-metal-bands/static/js/main.95cbddd4.chunk.js.map",
+    "runtime-main.js": "/neomorphic-metal-bands/static/js/runtime-main.ccf87a2e.js",
+    "runtime-main.js.map": "/neomorphic-metal-bands/static/js/runtime-main.ccf87a2e.js.map",
+    "static/js/2.5eec55a0.chunk.js": "/neomorphic-metal-bands/static/js/2.5eec55a0.chunk.js",
+    "static/js/2.5eec55a0.chunk.js.map": "/neomorphic-metal-bands/static/js/2.5eec55a0.chunk.js.map",
+    "static/js/3.3fe42900.chunk.js": "/neomorphic-metal-bands/static/js/3.3fe42900.chunk.js",
+    "static/js/3.3fe42900.chunk.js.map": "/neomorphic-metal-bands/static/js/3.3fe42900.chunk.js.map",
+    "index.html": "/neomorphic-metal-bands/index.html",
+    "static/css/main.616df1d2.chunk.css.map": "/neomorphic-metal-bands/static/css/main.616df1d2.chunk.css.map",
+    "static/js/2.5eec55a0.chunk.js.LICENSE.txt": "/neomorphic-metal-bands/static/js/2.5eec55a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.099dd065.js",
-    "static/js/2.52c24d64.chunk.js",
-    "static/css/main.518652f2.chunk.css",
-    "static/js/main.98163f8a.chunk.js"
+    "static/js/runtime-main.ccf87a2e.js",
+    "static/js/2.5eec55a0.chunk.js",
+    "static/css/main.616df1d2.chunk.css",
+    "static/js/main.95cbddd4.chunk.js"
   ]
 }
