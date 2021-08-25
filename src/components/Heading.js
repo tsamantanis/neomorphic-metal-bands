@@ -1,7 +1,7 @@
 function Heading() {
     return (
         <div>
-            <h1>Final Assessment</h1>
+            <h1>Neomorphic Metal Bands</h1>
             <h2>Philippos Tsamantanis</h2>
         </div>
     );

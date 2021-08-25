@@ -2,6 +2,14 @@ import { useState } from "react";
 import Band from "./Band";
 import data from "../metal.json";
 
+// Shallow Copy
+// const newData = [...data, { something: "x"}];
+// const newBand = { ...data[0], fans: "0" }
+
+// Deep copy
+// const deppData = data.map(band => {
+//     return { ...band }
+// })
 function Bands() {
     const [search, setSearch] = useState("");
 

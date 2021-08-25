@@ -1,4 +1,4 @@
-# Tsamantanis FEW1.2 Final Assessment
+# Neomorphic Metal Bands
 
 The goal is to make a project with React, load data from a JSON file, create and display components, use state, and use Array.map to create a collection of components.
 
@@ -12,7 +12,7 @@ The goal is to make a project with React, load data from a JSON file, create and
 
 # Demo Preview
 
-[Demo](https://tsamantanis.github.io/tsamantanis-few-1-2-final/)
+[Demo](https://tsamantanis.github.io/neomorphic-metal-bands/)
 
 # Installation
 
@@ -22,9 +22,9 @@ To use this project, first clone the repo on your device using the commands belo
 
 `git init`
 
-`git clone https://github.com/tsamantanis/tsamantanis-few-1-2-final.git`
+`git clone https://github.com/tsamantanis/neomorphic-metal-bands.git`
 
-`cd tsamantanis-few-1-2-final`
+`cd neomorphic-metal-bands`
 
 `npm install`
 
