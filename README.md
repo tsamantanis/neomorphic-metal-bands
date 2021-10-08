@@ -1,8 +1,9 @@
 # Neomorphic Metal Bands
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fneomorphic-metal-bands.iamtsamart.com%2F)
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/tsamantanis/neomorphic-metal-bands/latest)
+![Docker Image Size](https://img.shields.io/badge/docker%20image%20size-23.2MB-blue)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tsamantanis/neomorphic-metal-bands)
+
 
 [FreshPing Status](https://statuspage.freshping.io/57422-NeomorphicMetalBands)
 
@@ -22,6 +23,7 @@ The goal is to make a project with React, load data from a JSON file, create and
 # Demo Preview
 
 [Demo GH Pages](https://tsamantanis.github.io/neomorphic-metal-bands/)
+
 [Demo Caprover Custom Domain](https://neomorphic-metal-bands.iamtsamart.com/)
 
 # Installation
